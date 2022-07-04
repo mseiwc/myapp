@@ -1,5 +1,5 @@
 package myapp;
 
 public class Z {
-    // 6310451375 -อันเดิม
+    // 6310451375
 }
